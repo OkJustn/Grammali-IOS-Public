@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "886195292031",
+    "project_id": "gra-mali-xccbqd",
+    "storage_bucket": "gra-mali-xccbqd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886195292031:android:1e3291223aeb3c48c4fc4a",
+        "android_client_info": {
+          "package_name": "com.mycompany.gramali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886195292031-78rap8gsvmk7muh058rfpush8e4lepsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.gramali",
+            "certificate_hash": "da12941b92ac810dbb876f7e5697429a0b4f05cc"
+          }
+        },
+        {
+          "client_id": "886195292031-7shf9g0ir1sah771bvcmtkbnmfeenj8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.gramali",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "886195292031-9si2atbhp7v3orb906jh1etahhdjoqev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.gramali",
+            "certificate_hash": "b16ea10d63119233054837973675472e182cd206"
+          }
+        },
+        {
+          "client_id": "886195292031-m6vpsdemr0scv1vq74chno3ga4hc57vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPVouEiyOULHpNmK4YTHqihTN7NwT0C28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886195292031-m6vpsdemr0scv1vq74chno3ga4hc57vm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886195292031-4nipnepena2gjlj1cok29eqoojdtruqb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.gramali"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
